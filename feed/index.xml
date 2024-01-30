@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://alanmflores.github.io/lader-prueba-tecnica/wp-content/uploads/2024/01/LOGOTIPO-LADER-09.png</url>
+	<title>Agencia Lader</title>
+	<link>https://alanmflores.github.io/lader-prueba-tecnica</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>¡Hola, mundo!</title>
 		<link>https://alanmflores.github.io/lader-prueba-tecnica/2024/01/29/hola-mundo/</link>
